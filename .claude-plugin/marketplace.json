@@ -1,0 +1,11 @@
+{
+  "name": "teacher-skills",
+  "owner": { "name": "tara0908" },
+  "plugins": [
+    {
+      "name": "student-work-collector",
+      "source": "./",
+      "description": "학생 결과물 수집·정리·맞춤법 교정"
+    }
+  ]
+}
